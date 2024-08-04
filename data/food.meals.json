@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc081"
+  },
+  "name": "Mac & Cheese",
+  "price": "899",
+  "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722734818/quycspz1daezms7wvpev.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc082"
+  },
+  "name": "Margherita Pizza",
+  "price": "1299",
+  "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722704922/eq0hswprtunpwmk7mjqt.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc083"
+  },
+  "name": "Caesar Salad",
+  "price": "799",
+  "description": "Romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan shavings.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722704963/ly8etcoys1lcnzxft01u.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc085"
+  },
+  "name": "Veggie Burger",
+  "price": "999",
+  "description": "A juicy veggie patty served on a whole grain bun with lettuce, tomato, and a tangy sauce.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722734843/bpdvqtclngf87yg2u50r.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc086"
+  },
+  "name": "Grilled Chicken Sandwich",
+  "price": "1099",
+  "description": "Tender grilled chicken breast with avocado, bacon, lettuce, and honey mustard on a toasted bun.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722734875/iqbtx1pqqg0bb9idabd6.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc087"
+  },
+  "name": "Steak Frites",
+  "price": "1799",
+  "description": "Succulent steak cooked to your preference, served with crispy golden fries and herb butter.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722734911/mcoprt4pp5ibxuq4rcqc.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc088"
+  },
+  "name": "Sushi Roll Platter",
+  "price": "1599",
+  "description": "An assortment of fresh sushi rolls including California, Spicy Tuna, and Eel Avocado.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722734950/fmliyigjxb8puqmjacaf.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc089"
+  },
+  "name": "Chicken Curry",
+  "price": "1399",
+  "description": "Tender pieces of chicken simmered in a rich and aromatic curry sauce, served with basmati rice.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722734975/j4yfa5pyulkbvxqxkccx.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc08a"
+  },
+  "name": "Vegan Buddha Bowl",
+  "price": "1199",
+  "description": "A hearty bowl filled with quinoa, roasted veggies, avocado, and a tahini dressing.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722734994/ahc2vyoahtujvaij9oqv.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc08b"
+  },
+  "name": "Seafood Paella",
+  "price": "1999",
+  "description": "A Spanish delicacy filled with saffron-infused rice, shrimp, mussels, and chorizo.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722735113/lytjfzynemzat8gqz4qz.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc08c"
+  },
+  "name": "Pancake Stack",
+  "price": "899",
+  "description": "Fluffy pancakes stacked high, drizzled with maple syrup and topped with fresh berries.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722735130/cb5rd8ysqylffbyvhj6n.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc08d"
+  },
+  "name": "Miso Ramen",
+  "price": "1299",
+  "description": "A warming bowl of ramen with miso broth, tender pork, soft-boiled egg, and green onions.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722735144/xnpqsdvn8kf5zpsqmkqd.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc08e"
+  },
+  "name": "Beef Tacos",
+  "price": "999",
+  "description": "Three soft tortillas filled with seasoned beef, fresh salsa, cheese, and sour cream.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722735159/l7ob4hrd69om6gwqsf6v.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc08f"
+  },
+  "name": "Chocolate Brownie",
+  "price": "599",
+  "description": "A rich and fudgy brownie, topped with a scoop of vanilla ice cream and chocolate sauce.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722735177/dw9bcovh189ry84znsgk.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc090"
+  },
+  "name": "Lobster Bisque",
+  "price": "1499",
+  "description": "A creamy soup made from lobster stock, aromatic vegetables, and a touch of brandy.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722735191/shwtbwfi5tt61pc9ri7y.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc091"
+  },
+  "name": "Mushroom Risotto",
+  "price": "1399",
+  "description": "Creamy Arborio rice cooked with a medley of wild mushrooms and finished with parmesan.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722735082/lqkifpcujpwhrpbm5ws0.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc092"
+  },
+  "name": "Eggplant Parmesan",
+  "price": "1199",
+  "description": "Layers of breaded eggplant, marinara sauce, and melted mozzarella and parmesan cheeses.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722735064/zbrjzlaw2kuhzhpwdlzp.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc093"
+  },
+  "name": "Lemon Cheesecake",
+  "price": "699",
+  "description": "A creamy cheesecake with a tangy lemon flavor, served on a crumbly biscuit base.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722735032/lw1g2gutuhq5nmio69x3.jpg"
+},
+{
+  "_id": {
+    "$oid": "66ae64012686c9b69f9bc094"
+  },
+  "name": "Falafel Wrap",
+  "price": "899",
+  "description": "Crispy falafels wrapped in a warm pita with lettuce, tomatoes, and a tahini sauce.",
+  "image": "https://res.cloudinary.com/dj5vexpr2/image/upload/v1722735015/qcoqppj1rfrssevzhhpr.jpg"
+}]
