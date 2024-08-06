@@ -85,6 +85,7 @@ app.post("/login", async (req, res) => {
 });
 
 app.get("/meals", async (req, res) => {
+  console.log(url);
   try {
     const meals = await db.collection("meals").find().toArray();
     res.json(meals);
@@ -325,3 +326,6 @@ const startServer = async () => {
 };
 
 startServer();
+
+// mongodb+srv://maruf509599:103vuttpBKyL87e1@cluster0.a5hbucg.mongodb.net/
+// mongodb+srv://maruf509599:103vuttpBKyL87e1@cluster0.a5hbucg.mongodb.net/food?retryWrites=true&w=majority&appName=Cluster0
